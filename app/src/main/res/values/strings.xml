@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LsmColaborativoLoal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_gestion_usuarios">GESTION DE USUARIOS</string>
+    <string name="action_gestion_contenido">GESTION DE CONTENIDO</string>
+    <string name="action_validar_contenido">VALIDAR CONTENIDO</string>
+    <string name="action_reportes">REPORTES</string>
+    <string name="action_estadisticas">ESTADISTICAS</string>
+    <string name="action_cerrar_sesion">CERRAR SESIÓN</string>
+
+
+    <string name="menu_home">INICIO</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
