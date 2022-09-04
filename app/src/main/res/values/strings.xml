@@ -15,6 +15,9 @@
 
 
     <string name="menu_home">INICIO</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_agregar_contenido">AGREGAR CONTENIDO</string>
+    <string name="menu_notificaciones">NOTIFICACIONES</string>
+    <string name="menu_agregar_usuario">AGREGAR USUARIO</string>
+
+
 </resources>

@@ -12,14 +12,22 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.lsmcolaborativoloal.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_agregar_contenido"
+        android:name="com.example.lsmcolaborativoloal.ui.agregar_contenido.AgregarContenidoFragment"
+        android:label="@string/menu_agregar_contenido"
+        tools:layout="@layout/fragment_agregar_contenido" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.lsmcolaborativoloal.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_notificaciones"
+        android:name="com.example.lsmcolaborativoloal.ui.notificaciones.NotificacionesFragment"
+        android:label="@string/menu_notificaciones"
+        tools:layout="@layout/fragment_notificaciones" />
+
+    <fragment
+        android:id="@+id/nav_agregar_usuario"
+        android:name="com.example.lsmcolaborativoloal.ui.agregar_usuario.AgregarUsuario"
+        android:label="@string/menu_agregar_usuario"
+        tools:layout="@layout/fragment_agregar_usuario" />
+
+
 </navigation>
